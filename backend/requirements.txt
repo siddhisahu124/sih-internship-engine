@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pydantic
+sqlalchemy
+psycopg2-binary
+scikit-learn
+nltk
+spacy
+beautifulsoup4
+selenium

@@ -1,0 +1,15 @@
+# Node.js dependencies
+/frontend/node_modules/
+/frontend/.next/
+/frontend/dist/
+/frontend/.env
+
+# Python dependencies
+/backend/venv/
+/backend/__pycache__/
+/backend/dist/
+/backend/.env
+
+# IDE and OS files
+.vscode/
+.DS_Store
