@@ -7,9 +7,25 @@
 # Python dependencies
 /backend/venv/
 /backend/__pycache__/
-/backend/dist/
+/backend/*.pyc
+/backend/*.pyo
 /backend/.env
 
-# IDE and OS files
+# ChromeDriver binaries
+/backend/chromedriver*
+chromedriver
+chromedriver.exe
+
+# Cache & logs
+*.log
+*.pyc
+*.pyo
+__pycache__/
+.cache/
+.wdm/
+
+# IDE & OS files
 .vscode/
+.idea/
 .DS_Store
+Thumbs.db
